@@ -1,7 +1,7 @@
 <html><head>
-</head><body><h3>About Ninja</h3>
-<h1>Discords Newest and Most Reliable Moderation Bot With A Punch!!,</h1>
-<h1>Ninja has over 100+ Commands to keep you entertained and your Server Safe</h1>
+</head><body><h1>About Ninja</h1>
+<h3>Discords Newest and Most Reliable Moderation Bot With A Punch!!,</h1>
+<h3>Ninja has over 100+ Commands to keep you entertained and your Server Safe</h1>
 <br>
 <br>
 <br>
