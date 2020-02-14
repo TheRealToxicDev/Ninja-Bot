@@ -180,7 +180,7 @@
 <td style="width: 351.467px; height: 20px;">&nbsp;Work a day as a Prostitute to earn money</td>
 </tr>
 <tr style="height: 20px;">
-<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;">developer</span></td>
+<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;">>developer</span></td>
 <td style="width: 351.467px; height: 20px;">&nbsp;Work a day as a Developer for a Random company to earn money</td>
 </tr>
 </tbody>
