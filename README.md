@@ -27,7 +27,7 @@
 <td style="width: 237px; height: 23px;">&nbsp;Usage</td>
 </tr>
  <tr style="height: 20px;">
-<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;">help</span></td>
+<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;"help</span></td>
 <td style="width: 351.467px; height: 20px;">&nbsp;Get usage information for commands</td>
 <td style="width: 237px; height: 20px;">&nbsp;>help</td>
 </tr>
@@ -99,12 +99,12 @@
 <td style="width: 237px; height: 23px;">&nbsp;Usage Example</td>
 </tr>
 <tr style="height: 20px;">
-<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;">antijoin</span></td>
+<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;"antijoin</span></td>
 <td style="width: 351.467px; height: 20px;">&nbsp;Enable/Disable AntiJoin for the Server</td>
 <td style="width: 237px; height: 20px;">&nbsp;>antijoin &lt;enable&gt;</td>
 </tr>
 <tr style="height: 20px;">
-<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;">autorole</span></td>
+<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;"autorole</span></td>
 <td style="width: 351.467px; height: 20px;">&nbsp;Enable/Disable AutoRole on user join</td>
 <td style="width: 237px; height: 20px;">&nbsp;>autorole enable &lt;roleName&gt;</td>
 </tr>
@@ -120,22 +120,22 @@
 <td style="width: 237px; height: 23px;">&nbsp;Usage</td>
 </tr>
 <tr style="height: 20px;">
-<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;">profile</span></td>
+<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;"profile</span></td>
 <td style="width: 351.467px; height: 20px;">&nbsp;Returns the specified users Profile (XP, Level ect) (Defaults to your profile if no params provided)</td>
 <td style="width: 337px; height: 20px;">&nbsp;>profile or >profile &lt;@User#1234&gt;</td>
 </tr>
 <tr style="height: 20px;">
-<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;">deposit</span></td>
+<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;"deposit</span></td>
 <td style="width: 351.467px; height: 20px;">&nbsp;Deposit money into your bank account.</td>
 <td style="width: 337px; height: 20px;">&nbsp;>deposit &lt;amount&gt;</td>
 </tr>
 <tr style="height: 20px;">
-<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;">withdrawl</span></td>
+<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;"withdrawl</span></td>
 <td style="width: 351.467px; height: 20px;">&nbsp;Withdrawl money from your bank account.</td>
 <td style="width: 337px; height: 20px;">&nbsp;>withdrawl &lt;amount&gt;</td>
 </tr>
 <tr style="height: 20px;">
-<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;">work</span></td>
+<td style="width: 163.533px; height: 20px;">&nbsp;<span style="color: white;"work</span></td>
 <td style="width: 351.467px; height: 20px;">&nbsp;Go to work for the day and earn some cash</td>
 <td style="width: 337px; height: 20px;">&nbsp;>work</td>
 </tr>
